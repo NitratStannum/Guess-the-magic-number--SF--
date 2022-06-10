@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Проект 0. Угадай число
 
 ## Оглавление  
@@ -61,3 +62,7 @@
 Чтобы повысить эффективность алгоритма, необходимо внедрение дополнительных условий.
 
 :arrow_up:[к оглавлению](https://github.com/NitratStannum/SkillFactory-Study-/blob/master/README.md#Оглавление)
+=======
+# SkillFactory-Study-
+SF homework
+>>>>>>> c88494e (Initial commit)
