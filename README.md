@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/SkillFactory-Study-/blob/master/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -37,7 +37,7 @@
 - Среднее количество попыток расчитывается исходя из среднего арифметического за N итераций (по умолчанию N = 1000)
 
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/SkillFactory-Study-/blob/master/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -48,16 +48,16 @@
 4. Оформление презентации (Jupyter Notebook)
 5. Оформление README и выгрузка проекта на GitHub 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/SkillFactory-Study-/blob/master/README.md#Оглавление)
 
 
 ### Результаты:  
 Удалось добиться сокращения количества попыток для отгадывания числа, внедрив в алгоритм условия изменения диапазона чисел, которые генерирует компьютер, для того чтобы отгадать искомое число.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/SkillFactory-Study-/blob/master/README.md#Оглавление)
 
 
 ### Выводы:  
 Чтобы повысить эффективность алгоритма, необходимо внедрение дополнительных условий.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/SkillFactory-Study-/blob/master/README.md#Оглавление)
