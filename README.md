@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/NitratStannum/progect_0/blob/1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/NitratStannum/progect_0/blob/1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/NitratStannum/progect_0/blob/1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/NitratStannum/progect_0/blob/1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/NitratStannum/progect_0/blob/1/README.md#Результаты)    
-[6. Выводы](https://github.com/NitratStannum/progect_0/blob/1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Результаты)    
+[6. Выводы](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
