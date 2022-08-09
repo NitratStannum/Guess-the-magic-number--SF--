@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Результаты)    
-[6. Выводы](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/README.md#Выводы) 
+[1. Описание проекта](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Результаты)    
+[6. Выводы](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -37,7 +37,7 @@
 - Среднее количество попыток расчитывается исходя из среднего арифметического за N итераций (по умолчанию N = 1000)
 
   
-:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -48,16 +48,16 @@
 4. Оформление презентации (Jupyter Notebook)
 5. Оформление README и выгрузка проекта на GitHub 
 
-:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Оглавление)
 
 
 ### Результаты:  
 Удалось добиться сокращения количества попыток для отгадывания числа, внедрив в алгоритм условия изменения диапазона чисел, которые генерирует компьютер, для того чтобы отгадать искомое число.
 
-:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Оглавление)
 
 
 ### Выводы:  
 Чтобы повысить эффективность алгоритма, необходимо внедрение дополнительных условий.
 
-:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NitratStannum/progect_0/blob/progect_0-(v.1)/PROGECT_0/README.md#Оглавление)
